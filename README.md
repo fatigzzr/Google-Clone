@@ -3,9 +3,9 @@
 
 ## Contents
 
-* [1. Introduction ✨](#)
-* [2. What I built 🛠](#)
-* [3. Project's objective 🎯](#)
+* [1. Introduction ✨](https://github.com/fatigzzr/Google-Clone#1-introduction)
+* [2. What I built 🛠](https://github.com/fatigzzr/Google-Clone#2-what-i-built)
+* [3. Project's objective 🎯](https://github.com/fatigzzr/Google-Clone#3-projects-objective)
 
 ****
 
