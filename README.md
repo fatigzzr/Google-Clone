@@ -1,4 +1,4 @@
-# GoogleInterfaceClone
+# Google-Clone
 # Google's interface clone using HTML5 and CSS3 made in the bootcamp of Tecnolochicas PRO
 
 ## Contents
